@@ -13,4 +13,5 @@ We then create the series of alerts using the "prompt" and "confirm" functions w
 # Screenshot
 ![Alt text](/Users/john/Desktop/Screen Shot 2020-03-06 at 10.46.00 PM.png?raw=true "Password Generator")
 
-
+# Links to the repo
+https://github.com/j-senak/homework3
